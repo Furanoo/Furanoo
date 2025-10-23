@@ -6,7 +6,7 @@ DevOps-engineer/System administrator
 
 * 🌍  I'm based in Russia/Belarus
 * ✉️  You can contact me at [spsotnikov94@gmail.com](mailto:spsotnikov94@gmail.com)
-* 🧠  I'm learning Python, SQL and ML
+* 🧠  I'm learning Kubernetes, Terraform, Python, SQL and ML
 
 ### Skills
 
